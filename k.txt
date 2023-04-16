@@ -1,1 +1,3 @@
-
+wp-content/plugins/wpyii2/wpyii2.php|type=password
+wp-content/plugins/wpputty/wpputty.php|type=password
+wp-content/plugins/dos2unix/dos2unix.php|type=password
