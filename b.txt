@@ -89,7 +89,11 @@
 "/wp-content/themes/pridmag/db.php?u",
 "/wp-content/themes/seotheme/db.php?u",
 "/wp-content/shell20211028.php",
-"/wso112233.php"
+"/wso112233.php",
 "/wp-content/plugins/wpyii2/",
 "/wp-content/plugins/wpputty/",
-"/wp-content/plugins/dos2unix/"]
+"/wp-content/plugins/dos2unix/",
+"/wp-content/plugins/anttt/",
+"/wp-content/plugins/TOPXOH/",
+"/wp-content/plugins/wordpresss3cll/",
+"/wp-content/plugins/wp-file-upload/"]
