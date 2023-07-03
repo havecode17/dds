@@ -5,4 +5,8 @@
 "/wp-content/plugins/TOPXOH/wDR.php|FilesMan",
 "/wp-content/plugins/wordpresss3cll/up.php|Gaskan",
 "/wp-content/plugins/wp-file-upload/ROOBOTS.php|Upl0od Your T0ols",
-"/wso6.php|File man"]
+"/wp-admin/css/colors/coffee/index.php#yanz|<input type=",
+"/wp-admin/includes/logs.php|Exploit Donefile",
+"/ws.php|<span>Upload file:</span>",
+"/wp-content/updates.php#cfwk|<input type=",
+"/wp-content/plugins/instabuilder2/cache/up.php|<input type='file' name='zb'>"]
