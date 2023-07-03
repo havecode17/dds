@@ -19,6 +19,7 @@
 "/vendor/phpunit/phpunit/src/Util/PHP/",
 "/upload/image/",
 "/home/",
+"/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php",
 "/files/",
 "/admin/editor/",
 "/include/",
