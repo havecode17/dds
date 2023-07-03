@@ -5,4 +5,4 @@
 "/wp-content/plugins/TOPXOH/wDR.php|FilesMan",
 "/wp-content/plugins/wordpresss3cll/up.php|Gaskan",
 "/wp-content/plugins/wp-file-upload/ROOBOTS.php|Upl0od Your T0ols",
-"/wso6.php|file man"]
+"/wso6.php|File man"]
