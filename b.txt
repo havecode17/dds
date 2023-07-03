@@ -12,6 +12,7 @@
 "/upload/",
 "/admin/uploads/",
 "/Admin/uploads/",
+"/about.php",
 "/admin/",
 "/images/",
 "/assets/",
