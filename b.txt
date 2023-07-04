@@ -12,6 +12,7 @@
 "/upload/",
 "/admin/uploads/",
 "/Admin/uploads/",
+"/wp-includes/js/tinymce/plugins/compat3x/css/index.php",
 "/about.php",
 "/admin/",
 "/images/",
