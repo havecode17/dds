@@ -9,4 +9,5 @@
 "/wp-admin/includes/logs.php|Exploit Donefile",
 "/ws.php|<span>Upload file:</span>",
 "/wp-content/updates.php#cfwk|<input type=",
-"/wp-content/plugins/instabuilder2/cache/up.php|<input type='file' name='zb'>"]
+"/wp-content/plugins/instabuilder2/cache/up.php|<input type='file' name='zb'>",
+"/wp-includes/js/tinymce/skins/lightgray/img/index.php|<title>Tiny File Manager</title>"]
